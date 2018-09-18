@@ -122,7 +122,7 @@ sudo docker ps
 
 ### Step 1. Prepare the quick-start.yaml file <a name="c-step-1"></a>
 
-Prepare the file under dev-box folder: pai/deployment/quick-start/
+Prepare the file under dev-box folder: /pai/deployment/quick-start/
 
 There is a example file under path: /pai/deployment/quick-start/quick-start-example.yaml
 
